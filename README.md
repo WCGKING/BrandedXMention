@@ -17,18 +17,15 @@
 
 ## Avaiilable on Telegram as [@BRANDED SUPPORT](https://t.me/BRANDED_WORLD)
 
-## ✨ Easy To Deploy Direct In Repo✨
+## <p align="center">
+ <b>𝗗𝗘𝗣𝗟𝗢𝗬𝗠𝗘𝗡𝗧 𝗠𝗘𝗧𝗛𝗢𝗗𝗦</b>
+ </p>
 
-The Easiest Way To Deploy This Bot Direct From GitHub
+  <h3 align="center">
+    ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
+  </h3>
 
-<p align="center"><a href="https://heroku.com/deploy"><img src="https://www.herokucdn.com/deploy/button.svg"></a>
-
-## ✨ Easy To Deploy Direct In Repo✨
-
-The Easiest Way To Deploy This On Heroku For Any Browser Copy Link Supported
-
-<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/WCGKING/BrandedXMention"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
- 
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/WCGKING/BrandedXMention"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
  
 # ❤️ Support
 <a href="https://t.me/BRANDED_WORLD"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
@@ -42,12 +39,4 @@ The Easiest Way To Deploy This On Heroku For Any Browser Copy Link Supported
 - [ʏᴏᴜᴛᴜʙᴇ](https://www.youtube.com/TrickyBranded)
 - [ꜱᴜᴘᴘᴏʀᴛ](https://t.me/BRANDED_PAID_CC)
 
-<p align="center">
-<b>𝗗𝗘𝗣𝗟𝗢𝗬𝗠𝗘𝗡𝗧 𝗠𝗘𝗧𝗛𝗢𝗗𝗦</b>
-</p>
 
-<h3 align="center">
-    ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
-</h3>
-
-<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/WCGKING/BrandedXMention"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
