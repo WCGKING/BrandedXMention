@@ -1,9 +1,6 @@
-# BrandedXMention
-BrandedXMention Bot Can Mention 5K + Members In Telegram Group And Channels Written By Python And Supported Telethon
-
 <h1 align="center"><b> ─「 𝗕𝗥𝗔𝗡𝗗𝗘𝗗 𝗠𝗘𝗡𝗧𝗜𝗢𝗡 」─ </b></h1>
 
-<h4 align="center">Asad Alexa A Powerful, Smart And Simple And Smart Mention Bot <br> ... Written With Python and Telethon...</h4>
+<h4 align="center">BRANDED MENTION A Powerful, Smart And Simple And Smart Mention Bot <br> ... Written With Python and Telethon...</h4>
 
 <p align="center"><a href="https://t.me/BRANDEDKING82"><img src="https://te.legra.ph/file/3b3c01623a1a7b3774571.jpg" width="400"></a></p>
 
@@ -18,7 +15,7 @@ BrandedXMention Bot Can Mention 5K + Members In Telegram Group And Channels Writ
 
 > ⭐️ Thanks to everyone for using Asad Alexa, That is the greatest pleasure we have !
 
-## Avaiilable on Telegram as [@AsadSupport](https://t.me/Alexa_MentionBot)
+## Avaiilable on Telegram as [@BRANDED SUPPORT](https://t.me/BRANDED_WORLD)
 
 ## ✨ Easy To Deploy Direct In Repo✨
 
@@ -30,20 +27,20 @@ The Easiest Way To Deploy This Bot Direct From GitHub
 
 The Easiest Way To Deploy This On Heroku For Any Browser Copy Link Supported
 
-<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/TheTeamAlexa/MentionBot"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/WCGKING/BrandedXMention"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
  
  
 # ❤️ Support
-<a href="https://t.me/AsadSupport"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
-<a href="https://t.me/Shayri_Music_Lovers"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
-<a href="https://t.me/Give_Me_Heart"><img src="https://img.shields.io/badge/Give-Me%20Heart-blue.svg?logo=telegram"></a>
+<a href="https://t.me/BRANDED_WORLD"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
+<a href="https://t.me/BRANDRD_BOT"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
+<a href="https://t.me/BRANDED_PAID_CC"><img src="https://img.shields.io/badge/Give-Me%20Heart-blue.svg?logo=telegram"></a>
 
 
 ## CREDITS
 
-- [Asad Ali](https://t.me/Dr_Asad_Ali)
-- [YouTube](https://www.youtube.com/c/JankariKiDuniya)
-- [Harshit Sharma](https://t.me/HarshitSharma361)
+- [ʙʀᴀɴᴅᴇᴅ ᴋɪɴɢ](https://t.me/BRANDEDKING82)
+- [ʏᴏᴜᴛᴜʙᴇ](https://www.youtube.com/TrickyBranded)
+- [ꜱᴜᴘᴘᴏʀᴛ](https://t.me/BRANDED_PAID_CC)
 
 <p align="center">
 <b>𝗗𝗘𝗣𝗟𝗢𝗬𝗠𝗘𝗡𝗧 𝗠𝗘𝗧𝗛𝗢𝗗𝗦</b>
