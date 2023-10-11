@@ -1,1 +1,1 @@
-worker: python3 -m BrandedXMention
+worker: python3 -m Bot
