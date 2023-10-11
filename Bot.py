@@ -51,8 +51,8 @@ async def start(event):
                 Button.url("❤️‍🔥 ʜᴇʀᴜᴋᴏ ᴄᴄ 💫", "https://t.me/BRANDED_PAID_CC"),
                 Button.url("❤️‍🔥 BRANDED ❤️‍🔥", "https://t.me/BRANDEDKING82"),
             ],
-        ),
-    )
+        )
+    
 
 
 @client.on(events.NewMessage(pattern="^/help$"))
